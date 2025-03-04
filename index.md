@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Testing my github page - JP
 ---
+
+wow this is pretty neat
 
